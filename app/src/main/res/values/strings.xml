@@ -11,10 +11,6 @@
     <string name="avatar">Avatar</string>
     <string name="compan">Company :</string>
     <string name="loca">Location :</string>
-    <string name="github">Github :</string>
-    <string name="git">https://github.com/MochArisandiJayanto</string>
-    <string name="mail">Email :</string>
-    <string name="email">diajaya0@gmail.com</string>
 
     <string-array name="username">
         <item>JakeWharton</item>
